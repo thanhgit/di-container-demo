@@ -3,6 +3,10 @@
 ```
 This is a demo project about dependency injection container pattern
 ```
+### Quickly
+```text
+$ npm start
+```
 ### Overview Architecture
 ![](./dependency-injection-container.png)
 
